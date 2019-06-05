@@ -1,0 +1,14 @@
+C:\Users\israe\MinhaApi\bin\Debug\netcoreapp2.2\MinhaApi.deps.json
+C:\Users\israe\MinhaApi\bin\Debug\netcoreapp2.2\MinhaApi.runtimeconfig.json
+C:\Users\israe\MinhaApi\bin\Debug\netcoreapp2.2\MinhaApi.runtimeconfig.dev.json
+C:\Users\israe\MinhaApi\bin\Debug\netcoreapp2.2\MinhaApi.dll
+C:\Users\israe\MinhaApi\bin\Debug\netcoreapp2.2\MinhaApi.pdb
+C:\Users\israe\MinhaApi\obj\Debug\netcoreapp2.2\MinhaApi.csprojAssemblyReference.cache
+C:\Users\israe\MinhaApi\obj\Debug\netcoreapp2.2\MinhaApi.csproj.CoreCompileInputs.cache
+C:\Users\israe\MinhaApi\obj\Debug\netcoreapp2.2\MinhaApi.RazorAssemblyInfo.cache
+C:\Users\israe\MinhaApi\obj\Debug\netcoreapp2.2\MinhaApi.RazorAssemblyInfo.cs
+C:\Users\israe\MinhaApi\obj\Debug\netcoreapp2.2\MinhaApi.AssemblyInfoInputs.cache
+C:\Users\israe\MinhaApi\obj\Debug\netcoreapp2.2\MinhaApi.AssemblyInfo.cs
+C:\Users\israe\MinhaApi\obj\Debug\netcoreapp2.2\MinhaApi.RazorTargetAssemblyInfo.cache
+C:\Users\israe\MinhaApi\obj\Debug\netcoreapp2.2\MinhaApi.dll
+C:\Users\israe\MinhaApi\obj\Debug\netcoreapp2.2\MinhaApi.pdb
